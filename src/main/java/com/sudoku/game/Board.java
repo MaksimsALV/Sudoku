@@ -1,4 +1,4 @@
-package com.sudoku.sudoku.game;
+package com.sudoku.game;
 
 
 //todo starting with 3x3 then make it 9x9

@@ -1,4 +1,4 @@
-package com.sudoku.sudoku.controller;
+package com.sudoku.controller;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
